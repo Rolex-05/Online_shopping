@@ -1,0 +1,17 @@
+0 0 RedmiNote_10 12000 20 0
+0 1 Iphone_14_pro_max 150000 8 0
+0 2 one_lus 35000 15 0
+1 0 android_charger 500 17 0
+1 1 earphone 1000 15 0
+2 0 asus_tuf 80000 7 0
+2 1 mac_book_pro 150000	5 0
+3 0 iwatch 30000 20 0
+3 1 boat 3000 26 0
+3 2 Samsung 42000 9 0
+4 0 GTA_5 10000 33 0
+4 1 FIFA_23 250 98 0
+4 2 Dota 600 45 0
+5 0 Mixer 800 36 0
+5 1 Induction 900 20 0
+5 2 Oven 450 12 0
+	

@@ -1,0 +1,7 @@
+0   Vikram abc@gmail.com     kalyan,mumbai	0123456	    1000      0	    63000	 	
+1   Papsa  zzz@gmail.com     Jodhpur,rajasthan	1234567     30000     0	    900000
+2   ab9    ab9@gmai.com      Wardha,Maharashtra	3456878	    25000     0	    752067
+3   Rahul  rhk@gmail.com     Sakoli,Maharashtra	9850430	    40000     0	    231302		
+4   Pawan  krup@gmail.com    Wardha,Maharashtra	6586054	    2000      0	    976506
+5   try    try@gmail.com     pune     		2352326     2500      0     60000
+69  Katol    sastajonnysins@gmail.com     Nagpur     7483275     2500      0     500000
